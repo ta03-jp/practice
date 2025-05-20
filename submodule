@@ -1,3 +1,0 @@
-git submodule deinit -f .
-git rm --cached path/to/submodule
-rm -rf .git/modules/path/to/submodule
